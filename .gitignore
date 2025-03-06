@@ -1,7 +1,9 @@
 node_modules/
+.next/
 .env
 .vscode/
 .idea/
+.DS_Store
 __pycache__/
 *.log
-
+backend/serviceAccountKey.json
